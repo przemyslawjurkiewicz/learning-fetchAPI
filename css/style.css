@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  
+  margin: 0;
+  font-family: "Lato";
+  background: #62affc;
+  color: #fff;
+}
+
+main {
+  text-align: center;
+ }
+
